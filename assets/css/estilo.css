@@ -10,3 +10,23 @@ header{
 h1{
     font-family: 'El Rio Lobo';
 	color:gold;}
+ .imagen1 {
+	background-color: #0189c0;
+    text-align: center;
+    padding: 15px 0;
+}
+ .imagen2{
+    background-image: url(../images/cuzco2.jpg);
+    background-repeat: no-repeat;
+    text-align: right;
+    background-size: 100%;
+    background-position-x: center;
+    background-color: #333;
+    padding: 15px 0;
+    height: 250px;
+    line-height: 5px;
+ }
+ h2{
+    color: #fff;
+    font-size: 16px;
+ }
