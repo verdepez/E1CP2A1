@@ -22,11 +22,18 @@ h1{
     background-size: 100%;
     background-position-x: center;
     background-color: #333;
-    padding: 15px 0;
+    padding: 1px 0;
     height: 250px;
     line-height: 5px;
  }
  h2{
     color: #fff;
     font-size: 16px;
+ }
+ .tabla3{
+     font-family: 'El Rio Lobo';
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 3px;
+    text-align: center;
  }
